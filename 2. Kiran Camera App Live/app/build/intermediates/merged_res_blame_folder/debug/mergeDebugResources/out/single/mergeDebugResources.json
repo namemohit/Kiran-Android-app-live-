@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.broadcastcamera.app-debug-4:/layout_activity_broadcaster.xml.flat",
+        "source": "com.example.broadcastcamera.app-main-6:/layout/activity_broadcaster.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-debug-4:\\layout_activity_receiver.xml.flat",
+        "source": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-main-6:\\layout\\activity_receiver.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-debug-4:\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-main-6:\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-debug-4:\\layout_activity_broadcaster.xml.flat",
+        "source": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-main-6:\\layout\\activity_broadcaster.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-debug-4:\\drawable_ic_camera_white.xml.flat",
+        "source": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-main-6:\\drawable\\ic_camera_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-debug-4:\\layout_activity_screen_stream.xml.flat",
+        "source": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-main-6:\\layout\\activity_screen_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-debug-4:\\xml_accessory_filter.xml.flat",
+        "source": "C:\\Users\\Mohit\\.gradle\\daemon\\8.13\\com.example.broadcastcamera.app-main-6:\\xml\\accessory_filter.xml"
+    }
+]

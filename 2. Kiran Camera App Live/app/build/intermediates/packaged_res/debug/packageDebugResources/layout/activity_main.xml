@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Broadcast Camera A2A"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="48dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Streaming Channel:"
+        android:layout_marginBottom="8dp" />
+
+    <RadioGroup
+        android:id="@+id/rgChannel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="32dp">
+        <RadioButton
+            android:id="@+id/rbUsb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="USB (Cable)"
+            android:checked="false" />
+        <RadioButton
+            android:id="@+id/rbWifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wi-Fi (Wireless)"
+            android:layout_marginStart="16dp"
+            android:checked="true" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnBroadcaster"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/role_broadcaster"
+        android:padding="16dp"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnReceiver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/role_receiver"
+        android:padding="16dp"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnRemoteHost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remote Control Host"
+        android:padding="16dp"
+        android:backgroundTint="#FF5722" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:text="Connect devices via USB OTG cable before starting."
+        android:textAlignment="center"
+        android:textColor="#666666" />
+
+</LinearLayout>

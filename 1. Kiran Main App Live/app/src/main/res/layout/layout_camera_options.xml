@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Camera Feed"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingBottom="16dp"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/btnLocal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Local"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:gravity="start|center_vertical" />
+
+    <Button
+        android:id="@+id/btnWifi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Wifi"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:gravity="start|center_vertical" />
+
+    <Button
+        android:id="@+id/btnUsb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="USB"
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:gravity="start|center_vertical" />
+
+</LinearLayout>

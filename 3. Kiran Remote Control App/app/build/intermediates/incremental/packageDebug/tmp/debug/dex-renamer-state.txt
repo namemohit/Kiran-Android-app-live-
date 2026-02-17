@@ -1,0 +1,13 @@
+#Mon Feb 16 22:19:04 IST 2026
+base.0=C\:\\Users\\Mohit\\.gemini\\antigravity\\scratch\\1. Kiran App All Variants\\3. Kiran App Live\\3. Kiran Remote Control App\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Mohit\\.gemini\\antigravity\\scratch\\1. Kiran App All Variants\\3. Kiran App Live\\3. Kiran Remote Control App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Mohit\\.gemini\\antigravity\\scratch\\1. Kiran App All Variants\\3. Kiran App Live\\3. Kiran Remote Control App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.3=C\:\\Users\\Mohit\\.gemini\\antigravity\\scratch\\1. Kiran App All Variants\\3. Kiran App Live\\3. Kiran Remote Control App\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=13/classes.dex
+path.3=14/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kiran Camera</string>
+    <string name="role_broadcaster">Camera Phone (Sending)</string>
+    <string name="role_receiver">Admin Phone (Receiving)</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connected">Connected</string>
+    <string name="accessibility_service_description">Enables the Kiran Remote app to perform touch gestures on this phone for remote control.</string>
+    <string name="notification_title_sharing">Screen Sharing Active</string>
+    <string name="notification_text_sharing">Your screen is being shared with Kiran Remote.</string>
+</resources>
